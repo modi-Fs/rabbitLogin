@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/user.svg</file>
+        <file>img/lock.svg</file>
+        <file>img/eye_open.svg</file>
+        <file>img/eye_closed.svg</file>
+        <file>img/brand.svg</file>
+        <file>img/minimize.svg</file>
+        <file>img/maximize.svg</file>
+        <file>img/close.svg</file>
+        <file>img/close_hover.svg</file>
+        <file>img/minimize_hover.svg</file>
+        <file>img/maximize_hover.svg</file>
+        <file>img/minimize_dark.svg</file>
+        <file>img/minimize_dark_hover.svg</file>
+        <file>img/maximize_dark.svg</file>
+        <file>img/maximize_dark_hover.svg</file>
+        <file>img/close_dark.svg</file>
+        <file>img/check_black.svg</file>
+        <file>img/check_white.svg</file>
+        <file>img/sun.svg</file>
+        <file>img/moon.svg</file>
+    </qresource>
+</RCC>
